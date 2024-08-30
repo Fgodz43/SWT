@@ -4756,11 +4756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
+      "projectUniqueName": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\Gruppe 8\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
       "projectName": "Calculator.Test.Unit",
-      "projectPath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
+      "projectPath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\Gruppe 8\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
       "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator.Test.Unit\\obj\\",
+      "outputPath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\Gruppe 8\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator.Test.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4776,8 +4776,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\Calculator.csproj"
+            "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\Gruppe 8\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\Gruppe 8\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\Calculator.csproj"
             }
           }
         }

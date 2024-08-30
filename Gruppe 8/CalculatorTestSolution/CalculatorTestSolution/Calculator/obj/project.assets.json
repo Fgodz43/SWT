@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\Gruppe 8\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\Gruppe 8\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\Gruppe 8\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config"

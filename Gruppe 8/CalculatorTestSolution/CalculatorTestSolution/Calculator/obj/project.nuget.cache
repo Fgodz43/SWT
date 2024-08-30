@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pGruYg31Muk=",
+  "dgSpecHash": "g4+43OkbXV8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\kaspe\\OneDrive\\Skole\\4. Sem\\SWT\\Gruppe 8\\CalculatorTestSolution\\CalculatorTestSolution\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaspe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\kaspe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
